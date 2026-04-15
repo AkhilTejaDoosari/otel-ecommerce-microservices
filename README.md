@@ -3,7 +3,7 @@
 > **Note:** This project is a fork of [`opentelemetry-demo`](https://github.com/open-telemetry/opentelemetry-demo). Thanks to the team and 141+ contributors for open-sourcing this wonderful demo project — definitely one of the best on the internet.
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?color=red)](https://github.com/open-telemetry/opentelemetry-demo/blob/main/LICENSE)
-
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/opentelemetry-demo)](https://artifacthub.io/packages/helm/opentelemetry-helm/opentelemetry-demo)   
 End-to-end DevOps implementation of a cloud-native e-commerce platform. The application is the **OpenTelemetry Astronomy Shop** — a production-grade microservices distributed system. My work covers the full infrastructure, deployment, and operations layer on top of it.
 
 ---
