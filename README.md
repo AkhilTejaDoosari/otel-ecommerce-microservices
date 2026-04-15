@@ -16,13 +16,13 @@ This project is built as part of the Udemy course:
 
 > 70 videos across 5 phases — covering containerization, IaC, Kubernetes, GitOps and CI/CD.
 
-| Phase | Videos  | Focus |
-|---|---- |---|
-| 1. Foundation & Local Setup | 01 - 18  | AWS account, IAM, EC2, Docker, kubectl, Terraform |
-| 2. Containerization | 19 – 31  | Dockerfiles, Docker Compose, ECR, K8s onboarding intro |
-| 3. Infrastructure as Code | 32 – 43  | Terraform state, S3 backend, DynamoDB locking, VPC & EKS modules |
-| 4. Kubernetes & Networking | 44 – 63  | K8s manifests, Service types, Ingress, ALB, Route 53, custom domain |
-| 5. GitOps & CI/CD | 64 – 70  | GitHub Actions, ArgoCD, GitOps workflow |
+| Phase | Videos | Focus |
+| :--- | :--- | :--- |
+| 1. Foundation & Local Setup | 01-18 | AWS account, IAM, EC2, Docker, kubectl, Terraform |
+| 2. Containerization | 19-31 | Dockerfiles, Docker Compose, ECR, K8s onboarding intro |
+| 3. Infrastructure as Code | 32-43 | Terraform state, S3 backend, DynamoDB locking, VPC & EKS modules |
+| 4. Kubernetes & Networking | 44-63 | K8s manifests, Service types, Ingress, ALB, Route 53, custom domain |
+| 5. GitOps & CI/CD | 64-70 | GitHub Actions, ArgoCD, GitOps workflow |
 
 ---
 
