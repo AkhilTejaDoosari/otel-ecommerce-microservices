@@ -12,13 +12,13 @@ End-to-end DevOps implementation of a cloud-native e-commerce platform. The appl
 
 This project is built as part of the Udemy course:
 
-**[Ultimate DevOps Project with Resume Preparation](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/)** by [Abhishek Veeramalla](https://github.com/iam-veeramalla)
+**[Ultimate DevOps Project Implementation](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/)** by [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
-> 76 videos across 6 phases — covering containerization, IaC, Kubernetes, GitOps, CI/CD, and resume prep for real-world DevOps roles.
+> 70 videos across 5 phases — covering containerization, IaC, Kubernetes, GitOps and CI/CD.
 
 | Phase | Videos | Focus |
 |---|---|---|
-| 1. Foundation & Local Setup | 1 – 18 | AWS account, IAM, EC2, Docker, kubectl, Terraform |
+| 1. Foundation & Local Setup | 01 - 18 | AWS account, IAM, EC2, Docker, kubectl, Terraform |
 | 2. Containerization | 19 – 31 | Dockerfiles, Docker Compose, ECR, K8s onboarding intro |
 | 3. Infrastructure as Code | 32 – 43 | Terraform state, S3 backend, DynamoDB locking, VPC & EKS modules |
 | 4. Kubernetes & Networking | 44 – 63 | K8s manifests, Service types, Ingress, ALB, Route 53, custom domain |
@@ -144,10 +144,6 @@ For detailed documentation, see [opentelemetry.io/docs/demo](https://opentelemet
 
 ## Acknowledgements
 
-- **Application**: [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) — Apache 2.0 License
-- **Course & guidance**: [Abhishek Veeramalla](https://github.com/iam-veeramalla) — [Ultimate DevOps Project with Resume Preparation](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/) on Udemy
+- **Application**: [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) 
+- **Guidance & Course**: [Abhishek Veeramalla](https://github.com/iam-veeramalla) — [Ultimate DevOps Project Implementation](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/) on Udemy
 - **Original fork**: [iam-veeramalla/ultimate-devops-project-demo](https://github.com/iam-veeramalla/ultimate-devops-project-demo)
-
----
-
-> 🚧 Actively in progress — phases will be checked off as completed.
