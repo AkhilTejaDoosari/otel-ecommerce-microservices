@@ -18,9 +18,9 @@ This project is built as part of the Udemy course:
 
 | Phase | Videos | Focus |
 | :--- | :--- | :--- |
-| 1. Foundation & Local Setup | 01-18 | AWS account, IAM, EC2, Docker, kubectl, Terraform |
-| 2. Containerization | 19-31 | Dockerfiles, Docker Compose, ECR, K8s onboarding intro |
-| 3. Infrastructure as Code | 32-43 | Terraform state, S3 backend, DynamoDB locking, VPC & EKS modules |
+| 1. Foundation & Local Setup | 01-16 | AWS account, IAM, EC2, Docker, kubectl, Terraform |
+| 2. Containerization | 17-30 | Dockerfiles, Docker Compose, ECR, K8s onboarding intro |
+| 3. Infrastructure as Code | 31-43 | Terraform state, S3 backend, DynamoDB locking, VPC & EKS modules |
 | 4. Kubernetes & Networking | 44-63 | K8s manifests, Service types, Ingress, ALB, Route 53, custom domain |
 | 5. GitOps & CI/CD | 64-70 | GitHub Actions, ArgoCD, GitOps workflow |
 
